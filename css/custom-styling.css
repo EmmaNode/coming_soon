@@ -1,0 +1,65 @@
+/* custom css file
+you can customize your theme colors,fonts size 
+and width by using overriding css over here
+***********************************************/
+
+
+/*  home page content custom css write here
+**********************************************/
+/* Heading Color change */
+.text-container .inner-container h1{
+  /* color: #000000 */
+}
+
+
+/* paragraph color change */
+.text-container .inner-container p{
+  /* color: #666666 */
+}
+
+
+
+
+/*  Inside Menu Setting
+**********************************************/
+/* navbar background color change */
+nav{
+  /* background: #000000 */
+}
+
+
+/* default with is 600px on desktop */
+.about{
+  /* width: 800px */
+}
+
+
+.about h1{
+  /* font size default 60px */
+  /* font-size: 80px */
+}
+
+
+.about p{
+  /* font size default 240px */
+  /* font-size: 24px */
+}
+
+
+
+
+/*  Website preloader color change
+**********************************************/
+/* background color change */
+#loader{
+  /* background: #000000 */
+}
+
+/* border color change for Loader icon color change */
+.loader__figure{
+  /* border: 0 solid #ffffff; */
+}
+
+
+
+
